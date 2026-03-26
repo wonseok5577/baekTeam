@@ -1,8 +1,3 @@
 # baekTeam
-
--**팀원이름** : 김병훈
-깃허브 url: gitbub.com/k-bang0518
-
-팀 url
-- **팀명** : 남자만 있조
-팀 url: https://github.com/izzyon0121/2026KDT_TEAM1
+이름: 정영우
+https://github.com/youngwoo011 
