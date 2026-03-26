@@ -1,9 +1,8 @@
 # baekTeam
 
 - **김미리** : https://github.com/kimmiri1234
+ **박현** :https://github.com/sdasvazx
 
--**팀원이름** : 박현, 정영우, 김병훈
--**깃허브 이름** : hunhee22, youngwoo011,k-bang0518 
 
 ### 팀 url
 - **팀명** : team only man
